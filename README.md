@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devh4ppy
 - 👀 I’m interested in react js
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning Redux
 
 <!---
 devh4ppy/devh4ppy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
